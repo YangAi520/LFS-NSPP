@@ -1,4 +1,4 @@
-# Long-Frame-Shift Neural Speech Phase Prediction With Spectral Continuity Enhancement and Interpolation Error Compensation
+# Long-Frame-Shift Neural Speech Phase Prediction with Spectral Continuity Enhancement and Interpolation Error Compensation
 ### Yang Ai, Ye-Xin Lu, Zhen-Hua Ling
 
 In our [paper](https://arxiv.org/abs/2308.08850), 
